@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1445164911 source:d:\dan\3sem\5555\5\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<cstdlib>
+	<Windows.h>
+	<winsock2.h>
+	"Thread.h"
+
+1444482298 source:d:\dan\3sem\5555\5\thread.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	<Windows.h>
+	<winsock2.h>
+
+1444483572 d:\dan\3sem\5555\5\thread.cpp
+
+1445154695 d:\dan\3sem\5555\5\include\thread.h
+
+1445158629 source:d:\dan\3sem\5555\5\src\thread.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<stdio.h>
+	<Windows.h>
+	<winsock2.h>
+	"Thread.h"
+
+1444638614 source:d:\dan\3sem\5555\5\src\server.cpp
+	"Server.h"
+
+1444638601 d:\dan\3sem\5555\5\include\server.h
+

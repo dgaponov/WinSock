@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1444559057 source:d:\dan\3sem\5555\5\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<cstdlib>
+	<Windows.h>
+	<winsock2.h>
+	"Thread.h"
+
+1444482298 source:d:\dan\3sem\5555\5\thread.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	<Windows.h>
+	<winsock2.h>
+
+1444483572 d:\dan\3sem\5555\5\thread.cpp
+
+1444638574 d:\dan\3sem\5555\5\include\thread.h
+
+1444639022 source:d:\dan\3sem\5555\5\src\thread.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<Windows.h>
+	<winsock2.h>
+	"Thread.h"
+
+1444638614 source:d:\dan\3sem\5555\5\src\server.cpp
+	"Server.h"
+
+1444638601 d:\dan\3sem\5555\5\include\server.h
+
+1444638614 source:d:\dan\3sem\5555\clieeeent\src\server.cpp
+	"Server.h"
+
+1444638601 d:\dan\3sem\5555\clieeeent\include\server.h
+
+1445157715 source:d:\dan\3sem\5555\clieeeent\src\thread.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<Windows.h>
+	<winsock2.h>
+	"Thread.h"
+
+1445157669 d:\dan\3sem\5555\clieeeent\include\thread.h
+
+1445147817 source:d:\dan\3sem\5555\clieeeent\main.cpp
+	<iostream>
+	<string>
+	<thread>
+	<conio.h>
+	<cstdio>
+	<cstdlib>
+	<Windows.h>
+	<winsock2.h>
+	"Thread.h"
+
